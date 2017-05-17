@@ -1,7 +1,8 @@
 h1{
 	text-align: center;
 	font-family: Consolas, serif;
-	color: #009CCD;
+	color: #009FFF;
+	font-size: 60px;
 	
 }
 
@@ -17,10 +18,8 @@ p {
 	font-size: 120%;
 	color: #1b41a6;
 	font-family: Monaco, serif;
-}
-
-h{
- 	font-size: 200%;
+	column-count: 2;
+	text-wrap: ;
 }
 
 ul {
@@ -33,8 +32,8 @@ ul {
 h2 {
 	text-align: center;
 	font-family: Arial, serif;
-	color: #123456;
-	font-size: 90%;
+	color: #0aaffe;
+	font-size: 232%;
 }
 
 .header {
@@ -42,9 +41,6 @@ h2 {
 	background-size: cover;
 	
 }
-
-body{
-	background-color: grey;
 }
 
 h3{
@@ -65,4 +61,5 @@ html{
 
 body{
 	background-color: #0026CDl;
+	background-color: grey;
 }
